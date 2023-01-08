@@ -1,0 +1,56 @@
+
+.form_container > form {
+  width: 505px;
+  /* padding-left: 12px; */
+  /* margin: 30px; */
+ } 
+
+
+.att {
+  font-weight: bold;;
+  position:absolute;
+}
+.con{
+  padding-top: 10px;
+  position: absolute;
+  text-align: left;
+  left: 0%;
+}
+
+.small{
+  position: absolute;
+  text-align: left;
+  left: 0%;
+}
+
+.put{
+  width: 500px;
+  height: 24px;
+  margin-top: 30px;
+  background-color: white;
+}
+ 
+.sm{
+  text-align: left;
+}
+
+::placeholder {
+  padding-left: 8px;
+}
+
+
+.set {
+  background-color: white;
+  text-align: left;
+}
+
+.second_form> {
+  float: right;
+
+
+}
+
+
+
+
+
